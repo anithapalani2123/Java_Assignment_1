@@ -2,7 +2,7 @@
 ## Name: Anitha.P
 ## Register Number: 212221240004
 ### 1. Write a Java program to print the sum,multiply,subtrct,divide and remainder of two numbers.
-```
+```java
 public class arithmetric {
     public static void main(String[] args)
     {
