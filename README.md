@@ -23,7 +23,7 @@ public class arithmetric {
 ## Output:
 ![output](./out1.png)
 ### 2. Write a Java program to compare two numbers.
-```
+```java
 public class compare_two_num {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
@@ -45,7 +45,7 @@ public class compare_two_num {
 ## Output:
 ![output](./out2.png)
 ### 3. Write a Java program to convert a string to an integer.
-```
+```java
 import java.util.Scanner;
 public class str_to_int
 {
@@ -62,7 +62,7 @@ public class str_to_int
 ## Output:
 ![output](./out3.png)
 ### 4. Java program to find area of rhombus.
-```
+```java
 import java.util.Scanner;
 public class area_rhombus {
     public static void main(String[] args){
@@ -79,7 +79,7 @@ public class area_rhombus {
 ## Output:
 ![output](./out4.png)
 ### 5. Write a Java program to find the numbers of days in a month.
-```
+```java
 import java.util.Scanner;
 public class no_of_days_in_a_month {
     public static void main(String[] args){
@@ -136,7 +136,7 @@ public class no_of_days_in_a_month {
 ## Output:
 ![output](./out5.png)
 ### 6.  Write a Java program to print the even numbers from 1 to 20.
-```
+```java
 public class even_num {
     public static void main(String[] args){
         for(int i=1;i<=20;i++)
@@ -154,7 +154,7 @@ public class even_num {
 ## Output:
 ![output](./out6.png)
 ### 7. Write a Java program to create a simple calculator.
-```
+```java
 import java.util.Scanner;
 public class calculator {
     public static void main(String[] args){
@@ -201,7 +201,7 @@ public class calculator {
 ## Output:
 ![output](./out7.png)
 ### 8. Write a Java program to print multiplication table of given number.
-```
+```java
 import java.util.Scanner;
 public class tables {
     public static void main(String[] args){
